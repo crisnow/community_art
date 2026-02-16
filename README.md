@@ -1,5 +1,6 @@
 # AI-Enhanced Community Mural
 **Real-Time GenAI Projection System for Participatory Public Art**
+<img width="1430" height="731" alt="Screenshot 2026-02-16 at 9 05 03 AM" src="https://github.com/user-attachments/assets/fd782ebf-deaf-4514-af68-dd9e93f1d37f" />
 
 ## Overview
 This project presents a real-time AI-powered interactive projection platform that transforms public spaces into collaborative digital murals. Community members submit text prompts which are instantly transformed into AI-generated visuals or animated procedural graphics and projected onto large walls during nighttime events.
